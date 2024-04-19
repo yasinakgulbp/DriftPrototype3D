@@ -1,0 +1,11 @@
+# ninja log v5
+33	178	7349304806153867	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c446c235f48ba0c3
+179	368	7349304807559384	C:/Users/yasin/Documents/GitHub/DriftPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1vk76p3u/obj/armeabi-v7a/libswappywrapper.so	a2974469aa776294
+0	771	7349304812026297	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4607424f1fb376e6
+14	774	7349304812086618	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e258a90761beacf3
+23	807	7349304812433227	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5e801b7c08deb6d3
+28	868	7349304813032364	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b62238bb17bdd16b
+10	925	7349304813589414	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	593da99a65d7250d
+18	1042	7349304814807805	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ee0d527f1abe8276
+6	1135	7349304815737059	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	74307057a024ea94
+1135	1255	7349304816595513	C:/Users/yasin/Documents/GitHub/DriftPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1vk76p3u/obj/armeabi-v7a/libgame.so	d798a0b49ebec304
